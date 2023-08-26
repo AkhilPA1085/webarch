@@ -1365,6 +1365,10 @@ section {
   margin: 0 0 0 68px;
 }
 
+.contact .info-box a {
+  color: inherit;
+}
+
 .contact .php-email-form {
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 30px;
@@ -1593,6 +1597,10 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Raleway", sans-serif;
+  color: #b7b7b7;
+}
+
+#footer .footer-top .footer-contact p a {
   color: #b7b7b7;
 }
 
